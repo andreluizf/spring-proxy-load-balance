@@ -1,0 +1,12 @@
+package com.springApisNetlix.eureka;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringApisNetflixEurekaServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringApisNetflixEurekaServerApplication.class, args);
+	}
+}

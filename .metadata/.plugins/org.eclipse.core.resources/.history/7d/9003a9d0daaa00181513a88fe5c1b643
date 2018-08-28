@@ -1,0 +1,5 @@
+package com.springApisNetlix.produto.controller;
+
+public class ProdutoController {
+
+}

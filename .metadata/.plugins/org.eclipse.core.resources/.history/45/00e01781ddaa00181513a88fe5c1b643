@@ -1,0 +1,5 @@
+package com.springApisNetlix.cliente.controller;
+
+public class ClienteController {
+
+}
