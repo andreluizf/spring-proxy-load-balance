@@ -484,3 +484,81 @@ org.eclipse.core.runtime.OperationCanceledException
 
 !ENTRY org.eclipse.jdt.ui 2 0 2018-08-28 13:06:00.212
 !MESSAGE The 'org.eclipse.recommenders.completion.rcp.javaCompletionProposalComputer.intelligent' proposal computer from the 'org.eclipse.recommenders.completion.rcp' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:55.833
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:56.251
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:56.733
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:56.806
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:56.961
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:56.994
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:57.253
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:57.572
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:57.655
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:57.728
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.194
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.291
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.596
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.639
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.643
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.683
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.894
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:58.933
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.004
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.021
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.024
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.215
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.294
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.299
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.319
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-28 14:12:59.328
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/spring-apis-netflix-cliente-1
